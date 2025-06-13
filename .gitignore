@@ -52,10 +52,6 @@ Thumbs.db
 # Logs
 *.log
 
-# Thomas-related QA files (keep local only)
-QA_THOMAS.md
-*thomas*
-*THOMAS*
 
 # Large files and artifacts
 comprehensive_analysis.html
